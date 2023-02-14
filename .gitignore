@@ -1,0 +1,8 @@
+# virtual environment
+.venv
+
+#terminal shortcuts
+env.cmd
+
+#cached files
+*.pyc
