@@ -2,6 +2,16 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 from functools import total_ordering
+from pymongo import MongoClient
+
+def get_db_client(username, password):
+    
+    connection_string = 'mongodb+srv://{username}:{password}@menuitems.wdbco70.mongodb.net/?retryWrites=true&w=majority'.format(
+        username=username
+        , password=password
+    )
+
+    return MongoClient(connection_string)
 
 def get_chrome_driver():
 

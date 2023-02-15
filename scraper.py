@@ -1,19 +1,19 @@
 import os
-from time import sleep
+import json
 
 import requests
 import bs4
 from selenium.webdriver.common.by import By
 from queue import Queue
 
-from utils import get_chrome_driver, TopN, Item
+from utils import get_chrome_driver, TopN, Item, get_db_client
 
 
 def run():
 
     restaurant_name = 'elmoose'
 
-    f = open('./menus' + '/' + restaurant_name + '.txt', 'r')
+    f = open('./restaurants' + '/' + restaurant_name + '_menu.txt', 'r')
     html = f.read()
     f.close()
 
@@ -26,6 +26,26 @@ def run():
     for item in menu_items:
         print(str(item) + '\n')
 
+    json_file = open('./restaurants' + '/' + restaurant_name + '_info.json', 'r')
+    restaurant_info = json.load(json_file)
+
+    write_restuarant_to_db(restaurant_info, menu_items)
+
+
+def write_restuarant_to_db(restuarant_info, menu_items):
+
+    col = get_db_client(
+        os.environ.get('MONGODB_USERNAME')
+        , os.environ.get('MONGODB_PASSWORD')
+    )['Restaurants']['restaurants']
+
+    restuarant_info['items'] = menu_items
+
+    col.insert_one(restuarant_info)
+
+
+
+
 def create_menu_items_list(desc, name, price, html_body):
 
     menu_items = []
@@ -34,18 +54,18 @@ def create_menu_items_list(desc, name, price, html_body):
     prices = html_body.find_all(price.split('|')[0], {'class':  price.split('|')[1]})
 
     for(n, d, p) in zip(names, descriptions, prices):
+
+        # TODO - better way to extract non numerical characters from price
+        # probably should do this upstream
         menu_items.append(
             {
                 'name': n.get_text()
                 , 'description': d.get_text()
-                , 'price': p.get_text()
+                , 'price': float(p.get_text()[1:])
             }
         )
     
     return menu_items
-
-   
-
 
 def extract_html_menu_keys(html_body):
 
