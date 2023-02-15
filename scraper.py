@@ -20,34 +20,65 @@ def run():
     soup = bs4.BeautifulSoup(html, 'html.parser')
     body = soup.find('body')
 
-    [item_desc, item_name, item_price] = find_menu_keys(body)
+    [desc, name, price] = extract_html_menu_keys(body)
+    menu_items = create_menu_items_list(desc, name, price, body)
 
-    [tag, class_name] = item_name.split('|')
-    names = body.find_all(tag, {'class': class_name})
-    for name in names[:5]:
-        print(name.getText() + '\n')
+    for item in menu_items:
+        print(str(item) + '\n')
+
+def create_menu_items_list(desc, name, price, html_body):
+
+    menu_items = []
+    names = html_body.find_all(name.split('|')[0], {'class':  name.split('|')[1]})
+    descriptions = html_body.find_all(desc.split('|')[0], {'class':  desc.split('|')[1]})
+    prices = html_body.find_all(price.split('|')[0], {'class':  price.split('|')[1]})
+
+    for(n, d, p) in zip(names, descriptions, prices):
+        menu_items.append(
+            {
+                'name': n.get_text()
+                , 'description': d.get_text()
+                , 'price': p.get_text()
+            }
+        )
     
-    [tag, class_name] = item_desc.split('|')
-    names = body.find_all(tag, {'class': class_name})
-    for name in names[:5]:
-        print(name.getText() + '\n')
+    return menu_items
+
+   
+
+
+def extract_html_menu_keys(html_body):
+
+    keys_to_stats = calculate_html_key_stats(html_body)
+
+    # assuming that the top 3 (by frequency) html keys with text
+    # will be the menu item name, description, and price, since these
+    # should show up the most frequently on a menu
+    keys_freq = TopN(3)
+
+    for k in keys_to_stats:
+        keys_freq.push(Item(k, keys_to_stats[k][0]))
+
+    menu_keys_average_chars = []
+    for item in keys_freq.getTopN():
+        menu_keys_average_chars.append(Item(item.id, keys_to_stats[item.id][1]))
     
-    [tag, class_name] = item_price.split('|')
-    names = body.find_all(tag, {'class': class_name})
-    for name in names[:5]:
-        print(name.getText() + '\n')
+    menu_keys_average_chars.sort(reverse=True)
 
+    return [key.id for key in menu_keys_average_chars]
 
-def find_menu_keys(body):
+def calculate_html_key_stats(html_body):
 
-    # Traverse through HTML body using BFS or DFS
-    q = Queue()
-    hashmap = {}
-    q.put(body)
+    # Traverse through HTML body using BFS
+    queue = Queue()
+    map_ = {}
+    queue.put(html_body)
 
-    while not q.empty():
-        element = q.get()
+    while not queue.empty():
+        element = queue.get()
 
+        # these elements do not have inner text or children
+        # and will throw errors if subsequent code is run
         if type(element) in [
             bs4.element.NavigableString
             , bs4.element.Comment
@@ -57,7 +88,9 @@ def find_menu_keys(body):
             continue
 
         text = element.find_all(string=True, recursive=False)
-
+        
+        # assuming that valid menu key candidates will have
+        # just 1 direct text element
         if len(text) == 1:
             try: 
                 class_name = ' '.join(element['class'])
@@ -65,27 +98,27 @@ def find_menu_keys(body):
                 class_name = ''
 
             key = element.name + '|' + class_name
-            if key in hashmap:
-                hashmap[key][0] = hashmap[key][0] + 1
-                hashmap[key][1] = hashmap[key][1] + len(text[0])
+            # map_ value will be a list of length 2
+            # index 0 representing frequency
+            # index 1 representing sum of number of chars in text
+            if key in map_:
+                map_[key][0] = map_[key][0] + 1
+                map_[key][1] = map_[key][1] + len(text[0])
             else:
-                hashmap[key] = [1, len(text[0])]
+                map_[key] = [1, len(text[0])]
         
         for child in element.contents:
-            q.put(child)
+            queue.put(child)
     
-    top3 = TopN(3)
-    for k in hashmap:
-        hashmap[k][1] = hashmap[k][1] / hashmap[k][0]
-        top3.push(Item(k, hashmap[k][0]))
 
-    tags = []
-    for item in top3.getTopN():
-        tags.append(Item(item.id, hashmap[item.id][1]))
+    # TODO edge case where, say, a description isn't filled in will cause
+    # the corresponding html key to have a lower character average than it should
+
+    # convert total # of chars to average
+    for k in map_:
+        map_[k][1] = map_[k][1] / map_[k][0]
     
-    tags.sort(reverse=True)
-
-    return [tag.id for tag in tags]
+    return map_
 
 
 def retrieve_menu():
@@ -98,4 +131,3 @@ def retrieve_menu():
 
 if __name__ == '__main__':
     run()
-    
