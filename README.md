@@ -2,7 +2,6 @@
 restaurant websites. It is currently in early development
 
 ## Installation
----------------
 
 Clone this repository
 
@@ -14,6 +13,5 @@ Clone this repository
 - requests (>=2.28)
 
 ## Main Features
-----------------
 
 - Parse restaurant HTML menu and extract menu item name, description, and price and output a list of json
