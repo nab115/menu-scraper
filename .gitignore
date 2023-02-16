@@ -6,3 +6,5 @@ env.cmd
 
 #cached files
 *.pyc
+
+local_testing.py

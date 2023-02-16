@@ -1,21 +1,17 @@
 import os
-import json
 
 import requests
 import bs4
-from selenium.webdriver.common.by import By
 from queue import Queue
 
-from utils import get_chrome_driver, TopN, Item, get_db_client
+from menu_scraper.utils import TopN, Item
+from menu_scraper.load import get_restaurant_menu
 
 
-def run():
+def extract_menu_items(url, restaurant_name):
 
-    restaurant_name = 'elmoose'
-
-    f = open('./restaurants' + '/' + restaurant_name + '_menu.txt', 'r')
-    html = f.read()
-    f.close()
+    
+    html = get_restaurant_menu(url, restaurant_name)
 
     soup = bs4.BeautifulSoup(html, 'html.parser')
     body = soup.find('body')
@@ -23,28 +19,9 @@ def run():
     [desc, name, price] = extract_html_menu_keys(body)
     menu_items = create_menu_items_list(desc, name, price, body)
 
-    for item in menu_items:
-        print(str(item) + '\n')
+    print(menu_items)
 
-    json_file = open('./restaurants' + '/' + restaurant_name + '_info.json', 'r')
-    restaurant_info = json.load(json_file)
-
-    write_restuarant_to_db(restaurant_info, menu_items)
-
-
-def write_restuarant_to_db(restuarant_info, menu_items):
-
-    col = get_db_client(
-        os.environ.get('MONGODB_USERNAME')
-        , os.environ.get('MONGODB_PASSWORD')
-    )['Restaurants']['restaurants']
-
-    restuarant_info['items'] = menu_items
-
-    col.insert_one(restuarant_info)
-
-
-
+    return menu_items
 
 def create_menu_items_list(desc, name, price, html_body):
 
@@ -107,7 +84,11 @@ def calculate_html_key_stats(html_body):
         ]:
             continue
 
-        text = element.find_all(string=True, recursive=False)
+        try:
+            text = element.find_all(string=True, recursive=False)
+        except:
+            print(element)
+            continue
         
         # assuming that valid menu key candidates will have
         # just 1 direct text element
@@ -139,15 +120,3 @@ def calculate_html_key_stats(html_body):
         map_[k][1] = map_[k][1] / map_[k][0]
     
     return map_
-
-
-def retrieve_menu():
-    driver = get_chrome_driver()
-    driver.get("https://www.elmoose.com/dinner")
-    elements = driver.find_elements(By.TAG_NAME, 'html')
-    f = open('menu.txt', 'w')
-    f.write(elements[0].get_attribute("innerHTML"))
-
-
-if __name__ == '__main__':
-    run()
