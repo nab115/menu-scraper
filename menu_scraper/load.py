@@ -23,10 +23,10 @@ def get_restaurant_menu(url, name):
 def get_restaurant_info(name):
 
     try:
-        f = open('menu_scraper/restaurants' + '/' + restaurant_name + '_info.json', 'r')
+        f = open('menu_scraper/restaurants' + '/' + name + '_info.json', 'r')
         return json.load(f)
     except:
-        print(f'No info json for {restaurant_name}')
+        print(f'No info json for {name}')
         return None
 
 def fetch_restaurant_html(url):

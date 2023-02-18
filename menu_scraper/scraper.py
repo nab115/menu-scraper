@@ -17,7 +17,7 @@ def extract_menu_items(url, restaurant_name):
     body = soup.find('body')
 
     [desc_key, name_key] = extract_html_menu_keys(body, 2, re.compile('[A-Za-z]+'))
-    [price_key] = extract_html_menu_keys(body, 1, re.compile('[$]*[0-9]+[.]?[0-9]*'))
+    [price_key] = extract_html_menu_keys(body, 1, re.compile('[$]?[0-9]{1,3}([.][0-9]*){0,1}'))
     
     menu_items = create_menu_items_list(
         body
@@ -32,12 +32,12 @@ def extract_menu_items(url, restaurant_name):
     return menu_items
 
 def convert_price_text(text):
-    price = []
-    for c in text:
-        if (c.isdigit() or c == '.'):
-            price.append(c)
+    pattern = re.compile('[0-9]{1,3}([.][0-9]*){0,1}')
+    price_search = pattern.search(text)
+    if(price_search):
+        return float(price_search.group())
     
-    return ''.join(price)
+    return None
 
 def key_from_element(e):
     try:
@@ -65,7 +65,8 @@ def create_menu_items_list(body, name_key, desc_key, price_key):
 
     for element in body.find_all():
         key = key_from_element(element)
-        text = element.get_text()
+        strings = element.find_all(string=True, recursive=False)
+        text = ''.join([s.strip() for s in strings])
         if key == name_key:
             if(item['name']):
                 menu_items.append(item)
@@ -73,12 +74,16 @@ def create_menu_items_list(body, name_key, desc_key, price_key):
             item['name'] = text
         elif key == desc_key:
             if(item['description']):
-                menu_items.append(item)
+                # TODO - remove baindaid fix
+                if(item['name']):
+                    menu_items.append(item)
                 item = empty_menu_item_json()
             item['description'] = text
         elif key == price_key:
             if(item['price']):
-                menu_items.append(item)
+                # TODO - remove baindaid fix
+                if(item['name']):
+                    menu_items.append(item)
                 item = empty_menu_item_json()
             item['price'] = convert_price_text(text)
     
