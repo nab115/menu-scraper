@@ -7,19 +7,17 @@ def get_restaurant_menu(url, name):
 
     filename = 'menu_scraper/restaurants' + '/' + name + '_menu.txt'
     try:
-        with open(filename, 'r') as f:
+        with open(filename, 'r', encoding="utf-8") as f:
             html = f.read()
+        f.close()
 
     except:
-        print(filename + ' not found')
-        driver = get_chrome_driver()
-        driver.get(url)
-        elements = driver.find_elements(By.TAG_NAME, 'html')
-        f = open(filename, 'w')
-        html = elements[0].get_attribute("innerHTML")
-        f.write(html)
-    
-    f.close()
+        print(filename + ' not found. Fetching HTML')
+        html = fetch_restaurant_html(url)
+        with open(filename, 'w', encoding="utf-8") as f:
+            f.write(html)
+        f.close()
+
     return html
 
 def get_restaurant_info(name):
@@ -30,4 +28,10 @@ def get_restaurant_info(name):
     except:
         print(f'No info json for {restaurant_name}')
         return None
+
+def fetch_restaurant_html(url):
+    driver = get_chrome_driver()
+    driver.get(url)
+    elements = driver.find_elements(By.TAG_NAME, 'html')
+    return elements[0].get_attribute("innerHTML")
 
