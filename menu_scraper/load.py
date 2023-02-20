@@ -1,9 +1,6 @@
 import json
 from requests_html import HTMLSession
 
-
-from menu_scraper.utils import get_chrome_driver
-
 def get_restaurant_menu(url, name):
 
     filename = 'menu_scraper/restaurants' + '/' + name + '_menu.txt'
