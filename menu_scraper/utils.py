@@ -1,6 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
 from functools import total_ordering
 from pymongo import MongoClient
 
@@ -14,8 +12,10 @@ def get_db_client(username, password):
     return MongoClient(connection_string)
 
 def get_chrome_driver():
-
-    return webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+    
+    op = webdriver.ChromeOptions()
+    op.add_argument('headless')
+    return webdriver.Chrome(options=op)
 
 @total_ordering
 class Item:
