@@ -1,7 +1,6 @@
 import os
 import re
 
-import requests
 import bs4
 from queue import Queue
 
