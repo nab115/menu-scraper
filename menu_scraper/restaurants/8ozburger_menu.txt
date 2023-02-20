@@ -1,0 +1,1851 @@
+<div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- steven-baldwin -->
+<link charset="utf-8" rel="stylesheet" id="yui_3_17_2_1_1676682466165_159" href="//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css"><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-28846951-7&amp;l=dataLayer&amp;cx=c"></script><script charset="utf-8" id="yui_3_17_2_1_1676682466165_158" src="//assets.squarespace.com/universal/scripts-compressed/popup-overlay-284619c6c7112708b8b91-min.en-US.js"></script><base href="">
+<meta charset="utf-8">
+<title>8oz Burger &amp; Co</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"><link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1550786728481-JG6FCCZC2I6OLXUQP5C9/favicon.ico">
+<link rel="canonical" href="https://www.8ozburgerandco.com">
+<meta property="og:site_name" content="8oz Burger &amp; Co">
+<meta property="og:title" content="8oz Burger &amp; Co">
+<meta property="og:url" content="https://www.8ozburgerandco.com">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://static1.squarespace.com/static/56d085d8555986c507b5fcd7/t/5881003bbebafb4eb4c09eb6/1484849212003/8ozlogo.png?format=1500w">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="114">
+<meta itemprop="name" content="8oz Burger &amp; Co">
+<meta itemprop="url" content="https://www.8ozburgerandco.com">
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/56d085d8555986c507b5fcd7/t/5881003bbebafb4eb4c09eb6/1484849212003/8ozlogo.png?format=1500w">
+<link rel="image_src" href="http://static1.squarespace.com/static/56d085d8555986c507b5fcd7/t/5881003bbebafb4eb4c09eb6/1484849212003/8ozlogo.png?format=1500w">
+<meta itemprop="image" content="http://static1.squarespace.com/static/56d085d8555986c507b5fcd7/t/5881003bbebafb4eb4c09eb6/1484849212003/8ozlogo.png?format=1500w">
+<meta name="twitter:title" content="8oz Burger &amp; Co">
+<meta name="twitter:image" content="http://static1.squarespace.com/static/56d085d8555986c507b5fcd7/t/5881003bbebafb4eb4c09eb6/1484849212003/8ozlogo.png?format=1500w">
+<meta name="twitter:url" content="https://www.8ozburgerandco.com">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="">
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/cR46pyd0_P1rqOJ9eeJCghglFobEoQhXNQbr91b7DSCfez6ffFHN4UJLFRbh52jhWD9hZ2MtFAbtFQ9u5Q6hjD93FhJuZcFqFU7AMPG0Sas8icm0OA4ydesa-At0SaBujW48Sagyjh90jhNlO2yzpc4uSci8ScB0ZeFzOcFzdPUCdhFydeyzSabCSas8icm0OA4ydesa-At0SaBujW48Sagyjh90jhNlOYiaikttdaTKiW41ZW4ydcsRdkoRdhXCiaiaO1FXZWZ8dKuKjAUqih80O1FUiABkZWF3jAF8OcFzdPJsjAlX-WjlZa4ziemD-kuDieb7f6KJ7MIbMg6fJMJ7f6K47MIbMg6wJMJ7fbR9dsMMeMw6MKG4fFmlIMMj2PMfH6qJXeXbMg6IJMJ7fbRsdsMMeMt6MKG4fFZlIMMjgPMfH6qJuhXbMg6VJMJ7fbRPdsMMeMS6MKG4fFFlIMMjIPMfH6GJy76gIMMjffMfH6GJyE6gIMMjIKMfH6GJK76gIMMjfPMfH6GJKE6gIMMjIkMfqMYslwaegb.js"></script>
+<style type="text/css">@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/89c06c/000000000000000077359d63/30/l?subset_id=2&fvd=n2&v=3) format("woff2"),url(https://use.typekit.net/af/89c06c/000000000000000077359d63/30/d?subset_id=2&fvd=n2&v=3) format("woff"),url(https://use.typekit.net/af/89c06c/000000000000000077359d63/30/a?subset_id=2&fvd=n2&v=3) format("opentype");font-weight:200;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/b868ec/000000000000000077359d64/30/l?subset_id=2&fvd=i2&v=3) format("woff2"),url(https://use.typekit.net/af/b868ec/000000000000000077359d64/30/d?subset_id=2&fvd=i2&v=3) format("woff"),url(https://use.typekit.net/af/b868ec/000000000000000077359d64/30/a?subset_id=2&fvd=i2&v=3) format("opentype");font-weight:200;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/63d81f/000000000000000077359d5a/30/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/63d81f/000000000000000077359d5a/30/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/63d81f/000000000000000077359d5a/30/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/e4f1f2/000000000000000077359d5c/30/l?subset_id=2&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/e4f1f2/000000000000000077359d5c/30/d?subset_id=2&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/e4f1f2/000000000000000077359d5c/30/a?subset_id=2&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/ab3e12/000000000000000077359d4f/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/ab3e12/000000000000000077359d4f/30/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/ab3e12/000000000000000077359d4f/30/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/951aca/000000000000000077359d51/30/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/951aca/000000000000000077359d51/30/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/951aca/000000000000000077359d51/30/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/c11a71/000000000000000077359d5e/30/l?subset_id=2&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/c11a71/000000000000000077359d5e/30/d?subset_id=2&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/c11a71/000000000000000077359d5e/30/a?subset_id=2&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/939926/000000000000000077359d5f/30/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/939926/000000000000000077359d5f/30/d?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/939926/000000000000000077359d5f/30/a?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/a798a9/000000000000000077359d55/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/a798a9/000000000000000077359d55/30/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/a798a9/000000000000000077359d55/30/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/8e3d9f/000000000000000077359d58/30/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/8e3d9f/000000000000000077359d58/30/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/8e3d9f/000000000000000077359d58/30/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/cbf647/000000000000000077359d61/30/l?subset_id=2&fvd=n8&v=3) format("woff2"),url(https://use.typekit.net/af/cbf647/000000000000000077359d61/30/d?subset_id=2&fvd=n8&v=3) format("woff"),url(https://use.typekit.net/af/cbf647/000000000000000077359d61/30/a?subset_id=2&fvd=n8&v=3) format("opentype");font-weight:800;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/af45c0/000000000000000077359d62/30/l?subset_id=2&fvd=i8&v=3) format("woff2"),url(https://use.typekit.net/af/af45c0/000000000000000077359d62/30/d?subset_id=2&fvd=i8&v=3) format("woff"),url(https://use.typekit.net/af/af45c0/000000000000000077359d62/30/a?subset_id=2&fvd=i8&v=3) format("opentype");font-weight:800;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/4a8d64/000000000000000077359d65/30/l?subset_id=2&fvd=n9&v=3) format("woff2"),url(https://use.typekit.net/af/4a8d64/000000000000000077359d65/30/d?subset_id=2&fvd=n9&v=3) format("woff"),url(https://use.typekit.net/af/4a8d64/000000000000000077359d65/30/a?subset_id=2&fvd=n9&v=3) format("opentype");font-weight:900;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:aktiv-grotesk-std;src:url(https://use.typekit.net/af/454bf3/000000000000000077359d66/30/l?subset_id=2&fvd=i9&v=3) format("woff2"),url(https://use.typekit.net/af/454bf3/000000000000000077359d66/30/d?subset_id=2&fvd=i9&v=3) format("woff"),url(https://use.typekit.net/af/454bf3/000000000000000077359d66/30/a?subset_id=2&fvd=i9&v=3) format("opentype");font-weight:900;font-style:italic;font-stretch:normal;font-display:auto;}</style><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-9f6f0bd8b4d0568322fcc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-9f6f0bd8b4d0568322fcc-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-bd388a58725d27de3369b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-bd388a58725d27de3369b-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c2fe5b3c754443b5e6c88-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c2fe5b3c754443b5e6c88-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-660990fc02ac990d06a86-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-660990fc02ac990d06a86-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-42e904b2189a7c1684dd6-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-42e904b2189a7c1684dd6-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-583aaa5ee6ef2ffadfe40-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-583aaa5ee6ef2ffadfe40-min.en-US.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-cb695e8fcdda99d566e70-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-8ed276e017ef2936c8ed3-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-a9d6e2a5fc511c5f6dd74-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-28c88ab0445617e01f9fe-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-a6fd5aa00121891bdfef5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-91e23fb14e407e3111565-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-671e5cd79b38249b9c95b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-1014aa237ca8f10033636-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-99232a56d608b29bd4ce4-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-dc15200cb57ef8b6d3c2d-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-e0b5b6b9f07d0b01e2dcf-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-df911470e9b09f49f1e70-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-f7b2e999121148be21967-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-153a1bf697675849ed0f7-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-284619c6c7112708b8b91-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-8e818c59986f1e896e503-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4c57e096d4fc84e15b309-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-638e733cac57cc09e00a5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e4e9a35a9641fff50d379-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a84b73932d3d06285edb3-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-edc0e09f99c7b0e2b2b17-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-7f2a3f5ba9d7457e19891-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-9d98f6310cfc334a6ed61-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-85559b1fd2f426deeecfd-min.en-US.js"}},"pageType":1,"website":{"id":"56d085d8555986c507b5fcd7","identifier":"steven-baldwin","websiteType":1,"contentModifiedOn":1661359613308,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"8oz Burger & Co","fullSiteTitle":"8oz Burger & Co","siteDescription":"","location":{"mapLat":47.6131103,"mapLng":-122.32096109999998,"addressTitle":"8oz Burger and Co","addressLine1":"1401 Broadway","addressLine2":"Seattle, WA, 98122","addressCountry":""},"logoImageId":"5881003bbebafb4eb4c09eb6","shareButtonOptions":{"8":true,"3":true,"2":true,"7":true,"6":true,"4":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484849211409-SJFU7LNRLPUD5EUKPYWC/8ozlogo.png","authenticUrl":"https://www.8ozburgerandco.com","internalUrl":"https://steven-baldwin.squarespace.com","baseUrl":"https://www.8ozburgerandco.com","primaryDomain":"www.8ozburgerandco.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":2,"userId":"10154294231432545","screenname":"8 oz. Burger & Co","addedOn":1484863826712,"profileUrl":"https://www.facebook.com/8ozburgerandco/","iconUrl":"http://graph.facebook.com/10154294231432545/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":10,"userId":"820114841","userName":"8ozburger","screenname":"8oz Burger & Co.","addedOn":1484864773186,"profileUrl":"http://instagram.com/8ozburger","iconUrl":"https://scontent.cdninstagram.com/t51.2885-19/927748_1552124461668012_830180598_a.jpg","collectionId":"58813d059f7456d53305c720","iconEnabled":true,"serviceName":"instagram"},{"serviceId":39,"screenname":"Yelp","addedOn":1484948177058,"profileUrl":"https://www.yelp.com/biz/8oz-burger-and-co-seattle","iconEnabled":true,"serviceName":"yelp"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"6ffe5805aa0f2683b2d2476a9dc4f08d64eeedfa20d4779b52eac456634f3285","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"56d085d8555986c507b5fcd9","websiteId":"56d085d8555986c507b5fcd7","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":2,"showOnScroll":true,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":30,"enableMobile":true,"enabledPages":[],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"206-466-5989","businessHours":{"monday":{"text":"11:30 to 23:00","ranges":[{"from":690,"to":1380}]},"tuesday":{"text":"11:30 to 23:00","ranges":[{"from":690,"to":1380}]},"wednesday":{"text":"11:30 to 23:00","ranges":[{"from":690,"to":1380}]},"thursday":{"text":"11:30 to 23:00","ranges":[{"from":690,"to":1380}]},"friday":{"text":"11:30 to 1:00","ranges":[{"from":690,"to":60}]},"saturday":{"text":"11:30 to 1:00","ranges":[{"from":690,"to":60}]},"sunday":{"text":"11:30 to 20:00","ranges":[{"from":690,"to":1200}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","ARS","AUD","BRL","CAD","CHF","COP","CZK","DKK","EUR","GBP","HKD","IDR","ILS","INR","JPY","MXN","MYR","NOK","NZD","PHP","PLN","RUB","SEK","SGD","THB","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayNativeProductReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"productReviewsMerchantEmailEnabled":false,"hasOptedToCollectNativeReviews":true},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Welcome","id":"588137db5016e1aed38f6db5","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Both","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"350px","gridSpacing":"20px","headerPadding":"30px","homepage-index-nav":"Show On Scroll","logoWidth":"200px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"255px","slideshow-aspect-ratio":"16:9 (Widescreen)","slideshow-autoplay":"true","slideshow-transition":"Fade","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/","betaFeatureFlags":["marketing_landing_page","crm_retention_segment","member_areas_spanish_interviews","campaigns_asset_picker","campaigns_import_discounts","send_local_pickup_ready_email","commerce_etsy_shipping_import","customer_accounts_email_verification","order_status_page_checkout_landing_enabled","campaigns_thumbnail_layout","commerce_clearpay","fluid_engine_clean_up_grid_contextual_change","commerce_order_status_access","campaigns_new_image_layout_picker","campaigns_content_editing_survey","campaigns_global_uc_ab","campaigns_discount_section_in_automations","commerce_site_visitor_metrics","crm_default_newsletter_block_to_campaigns","member_areas_provisioning_service","asset_uploader_refactor","is_feature_gate_refresh_enabled","campaigns_show_featured_templates","viewer-role-contributor-invites","block_annotations_revamp","campaigns_new_subscriber_search","member_areas_schedule_interview","customer_account_creation_recaptcha","commerce_restock_notifications","crm_remove_subscriber","background_art_onboarding","nested_categories_migration_enabled","fluid_engine_filtered_catalog_endpoints","commerce_etsy_product_import","fluid_engine","campaigns_discount_section_in_blasts"],"videoAssetsFeatureFlags":["mux-data-video-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"53343fb0e4b033999bd7af62","deleted":false}],"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"}};</script><script>SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script>
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.8ozburgerandco.com/welcome?format=rss">
+<script type="application/ld+json">{"url":"https://www.8ozburgerandco.com","name":"8oz Burger & Co","description":"","image":"//images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484849211409-SJFU7LNRLPUD5EUKPYWC/8ozlogo.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"8oz Burger and Co","address":"1401 Broadway\nSeattle, WA, 98122","email":"contact@8ozburgerandco.com","telephone":"206-466-5989","sameAs":["https://www.facebook.com/8ozburgerandco/","http://instagram.com/8ozburger","https://www.yelp.com/biz/8oz-burger-and-co-seattle"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"1401 Broadway\nSeattle, WA, 98122","image":"https://static1.squarespace.com/static/56d085d8555986c507b5fcd7/t/5881003bbebafb4eb4c09eb6/1661359613308/","name":"8oz Burger and Co","openingHours":"Mo 11:30-23:00, Tu 11:30-23:00, We 11:30-23:00, Th 11:30-23:00, Fr 11:30-01:00, Sa 11:30-01:00, Su 11:30-20:00","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/56d085d8555986c507b5fcd7/40/52e96934e4b0ea14d0f64568/5880fbd186e6c066e8fec805/1128/site.css"><link rel="stylesheet" href="https://cf.chownowcdn.com/latest/static/integrations/ordering-modal.min.css" media="all"><script src="https://cf.chownowcdn.com/latest/static/integrations/ordering-modal.min.js" data-chownow-company-id="8154"></script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-28846951-7');</script><!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  <style type="text/css">.disable-hover:not(.sqs-layout-editing) #siteWrapper, .disable-hover:not(.sqs-layout-editing) #siteWrapper * {pointer-events: none !important;}</style></head>
+  
+  <body id="collection-588137db5016e1aed38f6db5" class="transparent-header  expand-homepage-index-links homepage-index-nav-show-on-scroll show-page-title index-section-separation-alternating-background design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-169-widescreen slideshow-transition-fade slideshow-autoplay gallery-controls-both gallery-controls-color-light  meta-priority-date hide-entry-author  pre-footer-content-custom   show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-pill medium-button-style-outline medium-button-shape-rounded large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-pill tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-index collection-layout-default collection-588137db5016e1aed38f6db5 homepage view-list mobile-style-available logo-image has-banner-image index-page collection-welcome">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden"><div class="show-on-scroll-wrapper" id="showOnScrollWrapper"><div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" style="white-space: normal; display: block;">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#restaurant-section">
+                        Restaurant
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#menu-1-section">
+                        Menu 
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#order-online-section">
+                        Order Online
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base active">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://www.toasttab.com/8-oz-burger-co-broadway-1401-broadway/giftcards?utmCampaign=onlineOrdering">
+              Gift Cards
+            </a>
+          </div>
+          
+
+        
+
+      
+
+      
+    </nav>
+  </div></div>
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#restaurant-section">
+                        Restaurant
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#menu-1-section">
+                        Menu 
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#order-online-section">
+                        Order Online
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://www.toasttab.com/8-oz-burger-co-broadway-1401-broadway/giftcards?utmCampaign=onlineOrdering">
+              Gift Cards
+            </a>
+          </div>
+          
+
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage" class="tmpl-loading logo-image"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484849211409-SJFU7LNRLPUD5EUKPYWC/8ozlogo.png?format=1500w" alt="8oz Burger &amp; Co"></a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading positioned" style="margin-left: 0px; margin-top: 10px; margin-bottom: 0px;">
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" style="white-space: normal; display: block;">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#restaurant-section">
+                        Restaurant
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#menu-1-section">
+                        Menu 
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#order-online-section">
+                        Order Online
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base active">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://www.toasttab.com/8-oz-burger-co-broadway-1401-broadway/giftcards?utmCampaign=onlineOrdering">
+              Gift Cards
+            </a>
+          </div>
+          
+
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              <!-- nothing to see here, move along -->
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="588137db5016e1aed38f6db5">
+
+            
+              
+
+              
+            
+
+           <!-- Create index sections -->
+
+  
+  <div id="home-section" class="index-section page" data-url-id="home" data-collection-id="5881020be3df28e540823efe" data-edit-main-image="Background">
+    <div class="index-section-wrapper has-main-media has-main-image">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+            <div class="index-section-image content-fill" style="overflow: hidden;">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484850466277-135T1DCPGFGT5YPPZUWE/8oz-1463.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484850466277-135T1DCPGFGT5YPPZUWE/8oz-1463.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-parent-ratio="0.7" style="font-size: 0px; left: -483.562px; top: 0px; width: 1879.12px; height: 1253px; position: relative;" alt="8oz-1463.jpg" class="" data-image-resolution="2500w" src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484850466277-135T1DCPGFGT5YPPZUWE/8oz-1463.jpg?format=2500w">
+            </div>
+            <div class="index-image-overlay"></div>
+          
+        
+
+        <div class="content page-content has-main-media has-main-image tmpl-loading" id="home-page" data-url-id="home">
+          <div class="content-inner has-content" style="padding-top: 69px;">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1649356746804" id="page-5881020be3df28e540823efe"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="13.880597014925373" data-block-type="21" id="block-yui_3_17_2_1_1413555146600_8643"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1676682466165_137" style="padding-bottom: 13.8806%;">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ed8c5e026ef40bb6eb6"><div class="sqs-block-content" id="yui_3_17_2_1_1676682466165_248">
+
+<h1 style="text-align: center; white-space: pre-wrap; letter-spacing: 0.0138889em;" data-shrink-original-size="72">BALLARD &amp;  </h1><h1 style="text-align: center; white-space: pre-wrap; letter-spacing: 0.0138889em;" data-shrink-original-size="72">Capitol Hill </h1><h1 style="text-align: center; white-space: pre-wrap; letter-spacing: 0.0138889em;" data-shrink-original-size="72"> dine in &amp; Take out </h1><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h3 style="text-align:center;white-space:pre-wrap;">Locally owned × Crafted with Love</h3>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1644010738121_3733"><div class="sqs-block-content" id="yui_3_17_2_1_1676682466165_111">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1676682466165_110">
+  <a href="https://www.toasttab.com/8-oz-burger-co-broadway-1401-broadway/v3" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" data-initialized="true">
+    Order Cap Hill
+  </a>
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1644010815567_3868"><div class="sqs-block-content" id="yui_3_17_2_1_1676682466165_118">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1676682466165_117">
+  <a href="https://www.toasttab.com/8-oz-burger-co-ballard-2409-nw-market-st/v3" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" data-initialized="true">
+    Order Ballard
+  </a>
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="17.611940298507463" data-block-type="21" id="block-yui_3_17_2_1_1413555146600_9259"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1676682466165_140" style="padding-bottom: 17.6119%;">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="restaurant-section" class="index-section no-main-image page" data-url-id="restaurant" data-collection-id="58810070414fb59bc00bd1b5" data-edit-main-image="Background">
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="restaurant-page" data-url-id="restaurant">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1649356915773" id="page-58810070414fb59bc00bd1b5"><div class="row sqs-row"><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1649356619811_19071"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;">If you would like to place an order for pick up or delivery please order from our website.</p><p class="" style="white-space:pre-wrap;">Please note the hours and menu have been temporarily reduced.</p>
+
+
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1590428634947_28594"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1590428634947_28655"><div class="sqs-block-content">
+
+<h2 style="white-space:pre-wrap;">Using organic, local and sustainable ingredients, our award winning burgers deliver distinctive and unique flavors.&nbsp;</h2><p class="" style="white-space:pre-wrap;">Opened in 2011 by Chef Kevin Chung, 8oz Burger &amp; Co has become a local favorite for burger lovers’ in the Seattle area. Located in Capitol Hill and Ballard, this foodie destination redefines the hamburger one bite at a time.</p><p class="" style="white-space:pre-wrap;">8oz Burger &amp; Co. is committed to sourcing the best local and sustainable organic ingredients. Keeping in mind the foundation of a delicious burger, the focus is on the quality of the meat and bun while incorporating creative and delicious accompaniments to complement each burger. With over 16 burgers to choose from, there are plenty of options to suite every flavor profile.</p><p class="" style="white-space:pre-wrap;">This family friendly neighborhood spot also offers a full bar with local drafts, hand crafted cocktails, and over 50 whiskeys. Set in a modern-rustic interior, this old-meets-new environment offers patrons a comfortable and welcoming place to dine.</p>
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1413555146600_35250"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1413555146600_23182"><div class="sqs-block-content">
+
+<h3 style="white-space:pre-wrap;">CAPITOL HILL</h3><p class="" style="white-space:pre-wrap;">1401 Broadway, Seattle<br>Corner of Union &amp; Broadway</p><p class="" style="white-space:pre-wrap;">Mon-Tues Take Out Only<br>4:00 pm - 10:00 pm<br>Wednesday: Closed<br>Thursday to Sunday Dine In &amp; Take Out<br>4:00 pm - 10:00 pm</p><p class="" style="white-space:pre-wrap;">**Temporary hours</p><p class="" style="white-space:pre-wrap;">Phone orders:<br>206-466-5989 </p><h3 style="white-space:pre-wrap;">BALLARD&nbsp;</h3><p class="" style="white-space:pre-wrap;">2409 NW Market, Seattle</p><p class="" style="white-space:pre-wrap;">4:00 pm – 10:00 pm<br>Closed Tue and Wed</p><p class="" style="white-space:pre-wrap;">**Temporary hours</p><p class="" style="white-space:pre-wrap;">Open for dine in, take out and delivery </p><p class="" style="white-space:pre-wrap;">Phone orders:</p><p class="" style="white-space:pre-wrap;">206-782-2491</p>
+
+
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="gallery-section" class="index-section gallery" data-url-id="gallery" data-collection-id="58810827e58c625086eff6de">
+    <div class="index-section-wrapper has-main-media has-main-image" id="yui_3_17_2_1_1676682466165_615">
+
+      <!-- For Pages -->
+
+      
+
+      <!-- For Galleries -->
+
+      
+      <div class="content gallery-content clear" id="gallery-gallery" data-url-id="gallery">
+        <div class="content-inner has-content" id="yui_3_17_2_1_1676682466165_614">
+          
+<div class="index-gallery" id="yui_3_17_2_1_1676682466165_352">
+  <div class="gallery-wrapper  sqs-gallery-design-stacked" id="yui_3_17_2_1_1676682466165_353">
+
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide sqs-active-slide" id="yui_3_17_2_1_1676682466165_373" data-type="image" style="opacity: 1; z-index: 889;">
+        <div class="slide" data-slide-id="58810848cd0f68099f7e67fd" data-slide-url="kp1m7hpku4jkqy3o5oaqnzvoftg7ce" style="overflow: hidden;" id="yui_3_17_2_1_1676682466165_613">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851286858-V6X7EDCLIT1VH7EUG2G8/8oz-2089.jpg" alt="8oz-2089.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851286858-V6X7EDCLIT1VH7EUG2G8/8oz-2089.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851286858-V6X7EDCLIT1VH7EUG2G8/8oz-2089.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58810848cd0f68099f7e67fd" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -47.5608px; width: 912px; height: 608.122px; position: relative;" id="yui_3_17_2_1_1676682466165_612" alt="8oz-2089.jpg" data-image-resolution="1000w" src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851286858-V6X7EDCLIT1VH7EUG2G8/8oz-2089.jpg?format=1000w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_375" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58810866e6f2e15d650fcf9b" data-slide-url="kk8f5ozebj3iaq5lnbf1aslqyzm8dh" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851317379-28EAZLAD3YBH5PYNYCBG/8oz-1534.jpg" alt="8oz-1534.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851317379-28EAZLAD3YBH5PYNYCBG/8oz-1534.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851317379-28EAZLAD3YBH5PYNYCBG/8oz-1534.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58810866e6f2e15d650fcf9b" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -47.5608px; width: 912px; height: 608px; position: relative;" alt="8oz-1534.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_377" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="588108fabf629a7ea311321e" data-slide-url="ahqbj3vuog4sev39iurvgixvb1qubj" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851451729-OYGU6URP2TU0D76Y23QN/yum-feast2.jpg" alt="yum-feast2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851451729-OYGU6URP2TU0D76Y23QN/yum-feast2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1484851451729-OYGU6URP2TU0D76Y23QN/yum-feast2.jpg" data-image-dimensions="1200x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="588108fabf629a7ea311321e" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -47.5px; width: 912px; height: 608px; position: relative;" alt="yum-feast2.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_379" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58d9a9d3f5e2315551545074" data-slide-url="2017/3/27/qaak2yfkx2n6b7dgx8qgxyi02zi59q" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490659810378-IRGODAX459B6UNGRNJGM/8oz-9739.jpg" alt="8oz-9739.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490659810378-IRGODAX459B6UNGRNJGM/8oz-9739.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490659810378-IRGODAX459B6UNGRNJGM/8oz-9739.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58d9a9d3f5e2315551545074" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -47.5608px; width: 912px; height: 608px; position: relative;" alt="8oz-9739.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_381" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58d9aa801b631b73087c686b" data-slide-url="2kwxvvc89fltmjsycm3yvffih1niam" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490659969245-JV3TYMTH3QUUSD6RWWNZ/8oz-9815.jpg" alt="8oz-9815.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490659969245-JV3TYMTH3QUUSD6RWWNZ/8oz-9815.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490659969245-JV3TYMTH3QUUSD6RWWNZ/8oz-9815.jpg" data-image-dimensions="1600x1061" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58d9aa801b631b73087c686b" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -45.885px; width: 912px; height: 604px; position: relative;" alt="8oz-9815.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_383" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58d9aeb1c534a5f7a631db02" data-slide-url="pjqtrf1t3y981ewmqwlv9sshd37ygm" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490661042110-RK4F9R0Z8A32O6W1HFX7/IMG_2373-1.jpg" alt="IMG_2373-1.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490661042110-RK4F9R0Z8A32O6W1HFX7/IMG_2373-1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490661042110-RK4F9R0Z8A32O6W1HFX7/IMG_2373-1.jpg" data-image-dimensions="1600x1067" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58d9aeb1c534a5f7a631db02" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -47.595px; width: 912px; height: 608px; position: relative;" alt="IMG_2373-1.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_385" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58d9b18829687f2e38ca3204" data-slide-url="usmw2579z4uhxn23wjmannmppcyorn" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490661770168-YTAPYRWPWXYRR5IZRR7C/IMG_8912.jpg" alt="IMG_8912.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490661770168-YTAPYRWPWXYRR5IZRR7C/IMG_8912.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490661770168-YTAPYRWPWXYRR5IZRR7C/IMG_8912.jpg" data-image-dimensions="1600x1017" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58d9b18829687f2e38ca3204" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -33.345px; width: 912px; height: 579px; position: relative;" alt="IMG_8912.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_387" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58d9b299be6594a702756052" data-slide-url="luqnqw537mfl21q7kmzrwa183edkgl" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662042562-IZR01EIVLVVJ3A8QPY4M/IMG_8926.jpg" alt="IMG_8926.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662042562-IZR01EIVLVVJ3A8QPY4M/IMG_8926.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662042562-IZR01EIVLVVJ3A8QPY4M/IMG_8926.jpg" data-image-dimensions="1600x1092" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58d9b299be6594a702756052" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -54.72px; width: 912px; height: 622px; position: relative;" alt="IMG_8926.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1676682466165_389" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="58d9b3a7725e25e4e3fa37ef" data-slide-url="zbcxsmg8bzbj1koxk1rzcrxshnpys1" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662312250-10WVAMG17LCV5VOEQTAK/IMG_8949.jpg" alt="IMG_8949.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662312250-10WVAMG17LCV5VOEQTAK/IMG_8949.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662312250-10WVAMG17LCV5VOEQTAK/IMG_8949.jpg" data-image-dimensions="1600x1066" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="58d9b3a7725e25e4e3fa37ef" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -47.31px; width: 912px; height: 607.62px; position: relative;" alt="IMG_8949.jpg" data-image-resolution="1000w" src="https://images.squarespace-cdn.com/content/v1/56d085d8555986c507b5fcd7/1490662312250-10WVAMG17LCV5VOEQTAK/IMG_8949.jpg?format=1000w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+
+  </div>
+
+  
+  <span class="arrow previous-slide"></span>
+  <span class="arrow next-slide"></span>
+  
+
+  <div class="circles gallery-nav multi-image">
+
+    
+      <span class="circle sqs-active-slide"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+
+  </div>
+
+</div>
+
+
+        </div>
+      </div>
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="menu-1-section" class="index-section no-main-image page" data-url-id="menu-1" data-collection-id="5ecbee98e3d0ce7bf20c225b" data-edit-main-image="Background">
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="menu-1-page" data-url-id="menu-1">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1628104267423" id="page-5ecbee98e3d0ce7bf20c225b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-59e2ad2ffc0286af2bf8"><div class="sqs-block-content">
+
+<h1 style="white-space:pre-wrap;">Menus</h1>
+
+
+</div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e15ede4917571b477531"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;">Our house blend patties are made from naturally raised, antibiotic free, hormone free, 100% local black angus from Open Prairie located in Pasco, WA.</p><p class="" style="white-space:pre-wrap;">Our buns are freshly baked 100% organic brioche from a local bakery. Substitute a Pretzel Bun or lettuce wrap for $1 or Gluten Free Bun for $2. </p><p class="" style="white-space:pre-wrap;"><em>*To ensure that your food is a safe temperature upon delivery, burgers ordered to-go can only be cooked to well-done.</em></p>
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c5d05d78d878b780b505"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="4.4989775051124745" data-block-type="21" id="block-b1bbf12c5594803f7202"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1676682466165_143" style="padding-bottom: 4.49898%;">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="4.4989775051124745" data-block-type="21" id="block-dffb1e3d07cd795ff963"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1676682466165_146" style="padding-bottom: 4.49898%;">&nbsp;</div></div></div></div><div class="sqs-block menu-block sqs-block-menu" data-block-type="18" id="block-a8f46d94f4bf49731fa9"><div class="sqs-block-content">
+
+<div class="menu-wrapper menu-style-classic">
+
+
+
+  
+  <div role="tablist" class="menu-selector">
+  
+    
+      <label role="tab" class="menu-select-labels js-menu-select-labels menu-select-labels--active" tabindex="0" aria-selected="true">Capitol Hill Menu</label>
+    
+  
+    
+      <label role="tab" class="menu-select-labels js-menu-select-labels" tabindex="-1" aria-selected="false">Ballard Menu</label>
+    
+  
+    
+      <label role="tab" class="menu-select-labels js-menu-select-labels" tabindex="-1" aria-selected="false">Shakes &amp; Treats</label>
+    
+  
+  </div>
+  
+
+  <div class="menus menus--has-multiple">
+  
+  <div role="tabpanel" aria-label="Capitol Hill Menu" class="menu js-menu menu-1-0eaa88d8-a7ae-4d6b-b291-1f04bd05ef60" style="display: block">
+
+      
+
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Small snacks</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Mac &amp; Cheese</div>
+              <div class="menu-item-description">Beecher’s cheese, cinnamon. add bacon or prosciutto 2.00</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Short Rib Poutine</div>
+              <div class="menu-item-description">kennebec  fries, house gravy, mozzarella. add fried egg 2.00</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Plate O Bacon</div>
+              <div class="menu-item-description">spiced, candied</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Popcorn Chicken</div>
+              <div class="menu-item-description">Draper Valley chicken, siracha aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">3 Classic Sliders</div>
+              <div class="menu-item-description">tomato, onion, pickle, craft white american cheese, 8 oz. special sauce</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Brussel Sprouts</div>
+              <div class="menu-item-description">prosciutto, cider vinegar</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Sweet Potato Tots</div>
+              <div class="menu-item-description">cinnamon powdered sugar, honey curry aioli</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Salads</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">8oz Wedge</div>
+              <div class="menu-item-description">iceberg, gorgonzola dressing, gorgonzola crumbles, candied bacon crumbles, balsamic onion</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Caesar</div>
+              <div class="menu-item-description">baby kale, parmesan crisp, torn sourdough crouton</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Arugula Quinoa Salad</div>
+              <div class="menu-item-description">arugula, quinoa, dried cranberries, pecans, smoked gouda, citrus vinaigrette</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Sides</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Kennebec Fries</div>
+              <div class="menu-item-description">Small or Large</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Truffled Garlic Fries</div>
+              <div class="menu-item-description">Small or Large</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">IPA Onion Rings</div>
+              <div class="menu-item-description">With ranch</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Roasted Garlic Broccolini</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Side Salad</div>
+              <div class="menu-item-description">ranch, balsamic, citrus vinaigrette</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">8oz house burgers</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Classic</div>
+              <div class="menu-item-description">tomato, onion, pickle, craft white american cheese, 8 oz. special sauce</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Broadway</div>
+              <div class="menu-item-description">arugula, garlic tomato jam, garlic roasted tomatoes, garlic confit, mozzarella, aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The 8oz.</div>
+              <div class="menu-item-description">our signature burger - arugula, balsamic onions, hills bacon, beechers  flagship cheddar, truffle aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Union</div>
+              <div class="menu-item-description">espresso rubbed patty, arugula, fried shallots, candied bacon, gorgonzola, peppercorn aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Olive</div>
+              <div class="menu-item-description">garlic roasted tomato, mozzarella, prosciutto, sunny side up egg, basil pesto</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Madison</div>
+              <div class="menu-item-description">watercress, tomato, ale roasted mushroom, charred onions, thyme infused truffle salt, cave aged gruyere, herb aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Jackson</div>
+              <div class="menu-item-description">frisee, charred onions, crumbled bacon, gouda, smokey bacon mayo, bbq sauce</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Pike</div>
+              <div class="menu-item-description">this is a spicy creeper -  frisee, tomato,  fire roasted anaheim, habanero jam, cotija, avocado cilantro crema</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Hill</div>
+              <div class="menu-item-description">arugula, braised Painted Hills short rib,  fried shallots, demi glace, fontina, horseradish dijon</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">8oz Others</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Chicken Sammie</div>
+              <div class="menu-item-description">Draper valley chicken breast grilled or fried,  frise, onions, pickles, curried honey aioli, brioche</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Veggie</div>
+              <div class="menu-item-description">house made patty (brown rice, lentils, quinoa, garlic, onion, parsley, thyme, secret spices) watercress, tomato, onion, pickle, avocado, herb aioli, pretzel bun</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Fillet of Fish</div>
+              <div class="menu-item-description">wild cod, beer battered or grilled, wild baby arugula, onion, pickle, chiptole tartar, avocado cilantro creme</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Featured Burger</div>
+              <div class="menu-item-description">Currently unavailable</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+
+    </div>
+  
+  <div role="tabpanel" aria-label="Ballard Menu" class="menu js-menu menu-2-0eaa88d8-a7ae-4d6b-b291-1f04bd05ef60" style="display: none">
+
+      
+
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Small snacks</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Mac &amp; Cheese</div>
+              <div class="menu-item-description">Beecher’s cheese, cinnamon. add bacon or prosciutto 2.00</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Short Rib Poutine</div>
+              <div class="menu-item-description">kennebec  fries, house gravy, mozzarella. add fried egg 2.00</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Plate O Bacon</div>
+              <div class="menu-item-description">spiced, candied</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Popcorn Chicken</div>
+              <div class="menu-item-description">Draper Valley chicken, siracha aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Brussel Sprouts</div>
+              <div class="menu-item-description">prosciutto, cider vinegar</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">3 Classic Sliders</div>
+              <div class="menu-item-description">tomato, onion, pickle, craft white american cheese, 8 oz. special sauce</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Sweet Potato Tots</div>
+              <div class="menu-item-description">cinnamon powdered sugar, honey curry aioli</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Salads</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">8oz Wedge</div>
+              <div class="menu-item-description">iceberg, gorgonzola dressing, gorgonzola crumbles, candied bacon crumbles, balsamic onion</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Caesar</div>
+              <div class="menu-item-description">baby kale, parmesan crisp, torn sourdough crouton</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Arugula Quinoa Salad</div>
+              <div class="menu-item-description">arugula, quinoa, dried cranberries, pecans, smoked gouda, citrus vinaigrette</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Sides</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Kennebec Fries</div>
+              <div class="menu-item-description">Small or Large</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Truffled Garlic Fries</div>
+              <div class="menu-item-description">Small or Large</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">IPA Onion Rings</div>
+              <div class="menu-item-description">With ranch</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Roasted Garlic Broccolini</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Side Salad</div>
+              <div class="menu-item-description">ranch, balsamic, citrus vinaigrette</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">8oz house burgers</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Classic</div>
+              <div class="menu-item-description">house grass fed patty ,tomato, onion, pickle, craft white american cheese, 8 oz. special sauce</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The 8oz.</div>
+              <div class="menu-item-description">our signature burger - arugula, balsamic onions, hills bacon, beechers  flagship cheddar, truffle aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Union</div>
+              <div class="menu-item-description">espresso rubbed patty, arugula, fried shallots, candied bacon, gorgonzola, peppercorn aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Market St.</div>
+              <div class="menu-item-description">garlic tomato jam, mozzarella, poached egg, pance a, saffron hollandaise</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Madison</div>
+              <div class="menu-item-description">watercress, tomato, ale roasted mushroom, charred onions, thyme infused truffle salt, cave aged gruyere, herb aioli</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Jackson</div>
+              <div class="menu-item-description">frisee, charred onions, braised pork belly, gouda, smokey bacon mayo, bbq sauce</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Pike</div>
+              <div class="menu-item-description">this is a spicy creeper -  frisee, tomato,  fire roasted anaheim, habanero jam, cotija, avocado cilantro crema</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">The Hill</div>
+              <div class="menu-item-description">arugula, braised Painted Hills short rib,  fried shallots, demi glace, fontina, horseradish dijon</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">8oz Others</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Chicken Sammie</div>
+              <div class="menu-item-description">Draper valley chicken breast grilled or fried, frise, onions, pickles, curried honey aioli, brioche</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Veggie</div>
+              <div class="menu-item-description">house made patty (brown rice, lentils, quinoa, garlic, onion, parsley, thyme, secret spices) watercress, tomato, onion, pickle, avocado, herb aioli, pretzel bun</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Fillet of Fish</div>
+              <div class="menu-item-description">wild cod, beer battered or grilled, wild baby arugula, onion, pickle, chiptole tartar, avocado cilantro creme</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Featured Burger</div>
+              <div class="menu-item-description">Currently unavailable</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+
+    </div>
+  
+  <div role="tabpanel" aria-label="Shakes &amp; Treats" class="menu js-menu menu-3-0eaa88d8-a7ae-4d6b-b291-1f04bd05ef60" style="display: none">
+
+      
+
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">SHAKES &amp; FLOATS</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">ClassicShakes</div>
+              <div class="menu-item-description">All shakes are made with Full Tilt Ice Cream! Chocolate, Strawberry, Vanilla</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">PBJ Shake</div>
+              <div class="menu-item-description">vanilla ice cream, strawberry compote, peanut buttersauce, whippedcream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Maple Bacon Snickerdoodle Shake</div>
+              <div class="menu-item-description">maple syrup, bacon, cinnamon, vanilla ice cream, whipped cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Green Tea Nutella Shake</div>
+              <div class="menu-item-description">green tea ice cream, nutella, whipped cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Salted Caramel Shake</div>
+              <div class="menu-item-description">salted caramel ice cream, pretzel crumbs, whipped cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Espresso Oreo Shake</div>
+              <div class="menu-item-description">espresso oreo ice cream, whipped cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Thai Iced Tea Shake</div>
+              <div class="menu-item-description">Thai iced tea ice cream, whipped cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Dairy Free Shake</div>
+              <div class="menu-item-description">coconut flavored, coconut flakes</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Rootbeer Float</div>
+              <div class="menu-item-description">local root beer, vanilla ice cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Orange Creamsicle Float</div>
+              <div class="menu-item-description">local orange soda, vanilla ice cream</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+      <div class="menu-section">
+
+        
+        <div class="menu-section-header">
+          <div class="menu-section-title">Treats (currently unavailable)</div>
+          
+        </div>
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Cake Pops</div>
+              <div class="menu-item-description">1 chocolate &amp; 1 cookie dough cake popsicle, vanilla ice cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Brownie Bites</div>
+              <div class="menu-item-description">Hershey’s brownie, vanilla ice cream</div>
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Full Tilt Ice Cream</div>
+              <div class="menu-item-description">choice of vanilla, chocolate, espresso oreo, green tea,  ai iced tea, dairy  free coconut</div>
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+
+    </div>
+  
+  </div>
+
+
+
+</div> <!-- END .menu-wrapper -->
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="order-online-section" class="index-section no-main-image page alt-section" data-url-id="order-online" data-collection-id="61707cda93210331a027f0f1" data-edit-main-image="Background">
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="order-online-page" data-url-id="order-online">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1634762098136" id="page-61707cda93210331a027f0f1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-61707cda93210331a027f0f2"><div class="sqs-block-content">
+
+<h2 style="text-align:center;white-space:pre-wrap;">&nbsp;Order Online</h2>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1634761947365_2940"><div class="sqs-block-content" id="yui_3_17_2_1_1676682466165_125">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1676682466165_124">
+  <a href="https://www.toasttab.com/8-oz-burger-co-broadway-1401-broadway" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" data-initialized="true">
+    Capitol Hill Online
+  </a>
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1634761947365_4439"><div class="sqs-block-content" id="yui_3_17_2_1_1676682466165_132">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1676682466165_131">
+  <a href="https://www.toasttab.com/8-oz-burger-co-ballard-2409-nw-market-st" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" data-initialized="true">
+    Ballard Online
+  </a>
+</div>
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1418681567150" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1403260543132_3969"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-large social-icons-shape-circle social-icons-style-border">
+  <style>
+    #block-yui_3_17_2_1_1403260543132_3969 .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.facebook.com/8ozburgerandco/" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="8 oz. Burger &amp; Co">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://instagram.com/8ozburger" target="_blank" class="sqs-svg-icon--wrapper instagram" aria-label="8oz Burger &amp; Co.">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.yelp.com/biz/8oz-burger-and-co-seattle" target="_blank" class="sqs-svg-icon--wrapper yelp" aria-label="Yelp">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#yelp-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#yelp-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back To Top</a></div></nav></div>
+            
+
+
+            <div id="siteInfo"><span class="site-address">8oz Burger and Co, 1401 Broadway, Seattle, WA, 98122</span><span rel="tel" class="site-phone">206-466-5989</span><a href="mailto:contact@8ozburgerandco.com" class="site-email">contact@8ozburgerandco.com</a></div>
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1389963872562" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-713fe491a2c303b33937"><div class="sqs-block-content">
+
+<p class="text-align-center">Powered by <a target="_blank" href="http://www.squarespace.com">Squarespace</a></p>
+
+
+</div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+        <div class="sqs-custom-cart custom-cart empty sqs-template-integrated-shopping-cart" data-test="continue-to-cart" aria-label="0 items in cart">
+          <a href="/cart" class="custom-cart-button">Cart (<span class="sqs-cart-quantity">0</span>)</a>
+        </div>
+        
+
+      </div>
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script data-sqs-type="imageloader-bootstrapper">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"></path></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"></path></symbol><symbol id="instagram-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"></path></symbol><symbol id="instagram-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"></path></symbol><symbol id="yelp-icon" viewBox="0 0 64 64"><path d="M29.5,35.7c0.5-0.1,0.9-0.6,0.9-1.2c0-0.6-0.3-1.2-0.8-1.4c0,0-1.5-0.6-1.5-0.6 c-5-2.1-5.2-2.1-5.5-2.1c-0.4,0-0.7,0.2-1,0.6c-0.5,0.8-0.7,3.3-0.5,5c0.1,0.6,0.2,1,0.3,1.3c0.2,0.4,0.5,0.6,0.9,0.6 c0.2,0,0.4,0,5.1-1.5C27.5,36.4,29.5,35.7,29.5,35.7z M32.2,37.6c-0.6-0.2-1.2-0.1-1.5,0.4c0,0-1,1.2-1,1.2 c-3.5,4.1-3.7,4.3-3.7,4.5c-0.1,0.1-0.1,0.3-0.1,0.4c0,0.2,0.1,0.4,0.3,0.6c0.8,1,4.7,2.4,6,2.2c0.4-0.1,0.7-0.3,0.9-0.7 C33,46.1,33,45.9,33,41c0,0,0-2.2,0-2.2C33.1,38.3,32.7,37.8,32.2,37.6z M32.3,16.8c-0.1-0.4-0.4-0.7-0.9-0.8 c-1.3-0.3-6.5,1.1-7.5,2.1c-0.3,0.3-0.4,0.7-0.3,1.1c0.2,0.3,6.5,10.4,6.5,10.4c0.9,1.5,1.7,1.3,2,1.2c0.3-0.1,1-0.3,0.9-2.1 C33,26.6,32.4,17.3,32.3,16.8z M36.9,33.4C36.9,33.4,36.8,33.5,36.9,33.4c0.2-0.1,0.7-0.2,1.5-0.4c5.3-1.3,5.5-1.3,5.7-1.5 c0.3-0.2,0.5-0.6,0.5-1c0,0,0,0,0,0c-0.1-1.3-2.4-4.7-3.5-5.2c-0.4-0.2-0.8-0.2-1.1,0c-0.2,0.1-0.4,0.3-3.2,4.2c0,0-1.3,1.7-1.3,1.8 c-0.3,0.4-0.3,1,0,1.5C35.8,33.3,36.3,33.6,36.9,33.4z M44.4,38.6c-0.2-0.1-0.3-0.2-5-1.7c0,0-2-0.7-2.1-0.7c-0.5-0.2-1.1,0-1.4,0.5 c-0.4,0.5-0.5,1.1-0.1,1.6l0.8,1.3c2.8,4.5,3,4.8,3.2,5c0.3,0.2,0.7,0.3,1.1,0.1c1.2-0.5,3.7-3.7,3.9-5 C44.8,39.2,44.7,38.8,44.4,38.6z"></path></symbol><symbol id="yelp-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M22.4,37.9c-0.4,0-0.7-0.2-0.9-0.6c-0.1-0.3-0.2-0.7-0.3-1.3c-0.2-1.7,0-4.2,0.5-5 c0.2-0.4,0.6-0.6,1-0.6c0.3,0,0.5,0.1,5.5,2.1c0,0,1.5,0.6,1.5,0.6c0.5,0.2,0.9,0.7,0.8,1.4c0,0.6-0.4,1.1-0.9,1.2 c0,0-2.1,0.7-2.1,0.7C22.8,37.9,22.7,37.9,22.4,37.9z M33,41c0,4.9,0,5-0.1,5.3c-0.1,0.4-0.4,0.6-0.9,0.7c-1.2,0.2-5.1-1.2-6-2.2 c-0.2-0.2-0.3-0.4-0.3-0.6c0-0.2,0-0.3,0.1-0.4c0.1-0.2,0.2-0.4,3.7-4.5c0,0,1-1.2,1-1.2c0.3-0.4,1-0.6,1.5-0.4 c0.6,0.2,0.9,0.7,0.9,1.2C33,38.8,33,41,33,41z M32.2,30.8c-0.3,0.1-1,0.3-2-1.2c0,0-6.4-10.1-6.5-10.4c-0.1-0.3,0-0.7,0.3-1.1 c1-1,6.1-2.4,7.5-2.1c0.4,0.1,0.7,0.4,0.9,0.8c0.1,0.4,0.7,9.8,0.8,11.9C33.2,30.5,32.4,30.7,32.2,30.8z M35.4,31.3 c0,0,1.3-1.8,1.3-1.8c2.8-3.9,3-4.1,3.2-4.2c0.3-0.2,0.7-0.2,1.1,0c1.1,0.5,3.4,3.9,3.5,5.2c0,0,0,0,0,0c0,0.4-0.1,0.8-0.5,1 c-0.2,0.1-0.4,0.2-5.7,1.5c-0.8,0.2-1.3,0.3-1.6,0.4c0,0,0,0,0,0c-0.5,0.1-1.1-0.1-1.4-0.6C35.1,32.3,35.1,31.7,35.4,31.3z  M44.7,39.6c-0.2,1.3-2.7,4.5-3.9,5c-0.4,0.2-0.8,0.1-1.1-0.1c-0.2-0.2-0.4-0.5-3.2-5l-0.8-1.3c-0.3-0.5-0.3-1.1,0.1-1.6 c0.4-0.5,0.9-0.6,1.4-0.5c0,0,2.1,0.7,2.1,0.7c4.6,1.5,4.8,1.6,5,1.7C44.7,38.8,44.8,39.2,44.7,39.6z"></path></symbol></svg>
+
+  
+
+<div class="yui-popup-container-node"><div id="yui_3_17_2_1_1676682466165_184" class="yui3-widget sqs-widget sqs-popup-overlay"><div id="yui_3_17_2_1_1676682466165_186" class="sqs-popup-overlay-content"></div></div></div><div class="chownow-container" style="visibility: hidden;"><div class="chownow-backdrop"></div><a class="chownow-close"></a><div class="chownow-loading"><div class="chownow-loading-content">LOADING...<div class="chownow-bar"><div class="chownow-bar-progress"></div></div></div></div><iframe class="chownow-iframe" frameborder="0" seamless="seamless"></iframe></div></body>

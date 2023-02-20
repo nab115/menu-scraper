@@ -1,2 +1,2 @@
-from .scraper import extract_menu_items
-from .write_db import write_restuarant_to_db
+from menu_scraper.scraper import extract_menu_items, create_restaurant_object
+from menu_scraper.write_db import write_restuarant_to_db

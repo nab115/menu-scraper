@@ -6,12 +6,24 @@ import bs4
 from queue import Queue
 
 from menu_scraper.utils import TopN, Item
-from menu_scraper.load import get_restaurant_menu
+from menu_scraper.load import get_restaurant_menu, fetch_restaurant_html
+
+def create_restaurant_object(url, name, address, city):
+    menu_items = extract_menu_items(url)
+    return {
+        "name": name,
+        "address": address,
+        "city": city,
+        "items": menu_items
+    }
 
 
-def extract_menu_items(url, restaurant_name):
+def extract_menu_items(url, restaurant_name=''):
 
-    html = get_restaurant_menu(url, restaurant_name)
+    if (restaurant_name == ''):
+        html = fetch_restaurant_html(url)
+    else:
+        html = get_restaurant_menu(url, restaurant_name)
 
     soup = bs4.BeautifulSoup(html, 'html.parser')
     body = soup.find('body')
@@ -25,9 +37,6 @@ def extract_menu_items(url, restaurant_name):
         , desc_key
         , price_key
     )
-
-    for item in menu_items:
-        print(str(item) + '\n')
 
     return menu_items
 

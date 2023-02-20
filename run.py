@@ -2,19 +2,12 @@ import menu_scraper as ms
 
 restaurants = [
     {
-        "name": "elmoose"
-        , "url": "https://www.elmoose.com/dinner"
-    }
-    , {
-        "name": "slab_sandwich"
-        , "url": "http://www.slabsandwich.com/"
-    }
-    , {
-        "name": "8ozburger"
-        , "url": "https://www.8ozburgerandco.com/"
+        "name":"fogon_cocina"
+        , "url": "https://fogonseattle.com/food-menu/"
     }
 ]
 
 for r in restaurants:
-    items = ms.extract_menu_items(r['url'], r['name'])
-    ms.write_restuarant_to_db(r['name'], items)
+    r = ms.create_restaurant_object(r['url'], 'elmoose', '123', 'seattle')
+    print(r)
+    # ms.write_restuarant_to_db(r['name'], items)

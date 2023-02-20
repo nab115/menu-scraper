@@ -1,0 +1,31 @@
+Menu item information split up into different elements
+    i.e. the price for slab sandwiches is split up with currency
+    in a separate span
+    This causes the algo to include that span in the top 3, so it has the $
+    instead of the number
+
+Some menus appear to not even have a price, need to handle that
+
+Slab menu has price top and price bottom :(, we need to somehow pick just 1
+
+Not every menu item name has a description, so if we just try to line up 
+the lists it wont work
+
+If we allow for more than 3 in topN, then we get other text items like
+restaurant about description, address, etc. These can have more chars than the
+average length of say, the menu item name, and so it will get incorrectly 
+identified as the name
+
+Take into account proximity to other candidates?
+
+Candidates can be identified by : 
+    having frequent occurances
+    having numbers or food words
+
+Can we instead of directly getting the keys, identify the "Structure"
+and then find that structure repeated and from that common structure pull out
+the menu items
+
+Focus on menu item name and build from there
+
+Calculate distance using (X,Y)
