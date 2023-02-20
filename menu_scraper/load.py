@@ -1,5 +1,6 @@
 import json
-from selenium.webdriver.common.by import By
+from requests_html import HTMLSession
+
 
 from menu_scraper.utils import get_chrome_driver
 
@@ -30,8 +31,11 @@ def get_restaurant_info(name):
         return None
 
 def fetch_restaurant_html(url):
-    driver = get_chrome_driver()
-    driver.get(url)
-    elements = driver.find_elements(By.TAG_NAME, 'html')
-    return elements[0].get_attribute("innerHTML")
+
+    session = HTMLSession()
+    r = session.get(url)
+    r.html.render()
+    html = r.html.html
+
+    return html
 

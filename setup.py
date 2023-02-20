@@ -10,10 +10,10 @@ setup(
   url = 'https://www.menu-monster.com/scraper',
   download_url = 'https://github.com/nab115/menu-scraper/archive/refs/tags/v1.0.0.tar.gz',    # I explain this later on
   keywords = ['webscraper', 'restaurant', 'menu items'],
-  install_requires=[            # I get to this in a second
-          'selenium',
+  install_requires=[
           'beautifulsoup4',
           'pymongo',
+          'requests-html'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',

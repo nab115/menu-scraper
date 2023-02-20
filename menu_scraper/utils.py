@@ -1,4 +1,3 @@
-from selenium import webdriver
 from functools import total_ordering
 from pymongo import MongoClient
 
@@ -10,12 +9,6 @@ def get_db_client(username, password):
     )
 
     return MongoClient(connection_string)
-
-def get_chrome_driver():
-    
-    op = webdriver.ChromeOptions()
-    op.add_argument('headless')
-    return webdriver.Chrome(options=op)
 
 @total_ordering
 class Item:
