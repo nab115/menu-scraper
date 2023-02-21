@@ -15,3 +15,7 @@ Clone this repository
 ## Main Features
 
 - Parse restaurant HTML menu and extract menu item name, description, and price and output a list of json
+
+## Try it out
+
+Visit https://www.menu-monster.com/scraper to test it out yourself
