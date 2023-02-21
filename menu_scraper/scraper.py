@@ -117,8 +117,6 @@ def extract_html_menu_keys(html_body, n, pattern=None):
     
     menu_keys_average_chars.sort(reverse=True)
 
-    print(menu_keys_average_chars)
-
     return [key.id for key in menu_keys_average_chars]
 
 def calculate_html_key_stats(html_body, pattern):
