@@ -33,6 +33,7 @@ def fetch_restaurant_html(url):
     r = session.get(url)
     r.html.render()
     html = r.html.html
+    session.close()
 
     return html
 
